@@ -32,4 +32,4 @@ Before my Master's I worked at the Digital Skills helpdesk at Tilburg University
 ---
 
 📫 arnas.biel@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/arnas-bielinis)
+🔗 [LinkedIn](https://www.linkedin.com/in/arnas-bielinis-bb7257256/)
