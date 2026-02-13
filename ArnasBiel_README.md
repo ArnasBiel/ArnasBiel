@@ -18,9 +18,9 @@ Console Battleship game with an AI opponent that uses a probability heatmap to d
 
 ## Skills
 
-- **Languages:** Python, C/C++, R, OCaml, some SQL
-- **Areas:** Web security, OOP, statistical analysis
-- **Tools:** Linux, Git, LLVM (university compiler project)
+- **Programming Languages:** Python, C/C++, R, OCaml, some SQL
+- **Areas:** Web security, OOP, statistical analysis. backend development
+- **Tools:** Virtual machines, Docker, Unix, Git, LLVM (university compiler project)
 - **Languages:** Lithuanian (native), English (fluent, IELTS 7.5)
 
 ---
